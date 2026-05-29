@@ -70,4 +70,4 @@ Experienced professional with 9+ years of expertise in Test Automation, ETL Test
 ### Connect With Me
 
 * GitHub: https://github.com/Tirugithb
-* LinkedIn: Add your LinkedIn profile URL
+* LinkedIn: https://www.linkedin.com/in/tirumal-m-025abb284/
