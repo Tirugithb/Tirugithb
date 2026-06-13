@@ -1,8 +1,8 @@
 # Hi, I'm Tiru 
 
-## Technical Lead | Senior Test Automation Engineer | AI Automation Engineer
+## Technical Lead | Test Automation Engineer | AI Automation | Python | Appium | Playwright | ETL Testing | Data Analytics | Salesforce CRM Analytics Testing | AWS Testing
 
-Experienced professional with 9+ years of expertise in Test Automation, ETL Testing, Data Warehouse Testing, Database Testing, BI Testing, Salesforce CRM Analytics, AI-Assisted Automation, Mobile Automation, Web Automation, and Enterprise Healthcare Systems.
+Experienced professional with 10 years of expertise in Test Automation, ETL Testing, Data Warehouse Testing, Database Testing, BI Testing, Salesforce CRM Analytics, AI-Assisted Automation, Mobile Automation, Web Automation, and Enterprise Healthcare Systems.
 
 ### Core Skills
 
